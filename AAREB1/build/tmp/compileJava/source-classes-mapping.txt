@@ -1,0 +1,10 @@
+br/com/unipar/AAREB1/InsertionSort.java
+ br.com.unipar.AAREB1.InsertionSort
+br/com/unipar/AAREB1/SelectionSort.java
+ br.com.unipar.AAREB1.SelectionSort
+br/com/unipar/AAREB1/QuickSort.java
+ br.com.unipar.AAREB1.QuickSort
+br/com/unipar/AAREB1/Main.java
+ br.com.unipar.AAREB1.Main
+br/com/unipar/AAREB1/BubbleSort.java
+ br.com.unipar.AAREB1.BubbleSort
